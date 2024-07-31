@@ -1,4 +1,6 @@
 Rencana konten wpu
 -blokchain
+  *sejarah
+  *definisi
 -web3
 -crypto
