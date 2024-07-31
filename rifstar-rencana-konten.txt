@@ -6,3 +6,4 @@ Rencana konten wpu
  *wallet
 -crypto
  *analisis
+ *fundamental
