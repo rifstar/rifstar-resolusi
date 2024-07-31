@@ -5,3 +5,5 @@ Rencana konten wpu
 -web3
  *wallet
 -crypto
+ *analisis
+ *fundamental
