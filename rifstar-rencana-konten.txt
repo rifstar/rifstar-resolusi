@@ -3,4 +3,5 @@ Rencana konten wpu
   *sejarah
   *definisi
 -web3
+ *wallet
 -crypto
